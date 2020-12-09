@@ -11,6 +11,6 @@ The concept of the World Happiness Report was founded in the United Nations. The
 
 In this report, I will use the World Happiness Reports from different years to ask important questions and analyze results that would hopefully answer these questions.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[devanshi-pratiher]/[happiness]/blob/[README.md]/correlation_graphs.jpg?raw=true)
 
 
